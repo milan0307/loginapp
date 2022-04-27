@@ -126,7 +126,7 @@ under the License.
     <server>
       <id>nexus</id>
       <username>admin</username>
-      <password>admin</password>
+      <password>redhat</password>
     </server>
     <!-- Another sample, using keys to authenticate.
     <server>
